@@ -13,7 +13,7 @@
 - 💻 Comfortable across the stack — front to back
 - 🎮 Curious about game dev and shader programming
 - 🌱 Always learning, always building
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **Yassermohd015@Gmail.com**
 
 ---
 
@@ -77,8 +77,8 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/yasser-abdullsalam-2812642bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="Yassermohd015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/YasserJoestar">YasserJoestar</a></i></p>
